@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyStudio/nodejs.git"
+  },
+  "keywords": [
+    "hhh"
+  ],
+  "author": "jimmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JimmyStudio/nodejs/issues"
+  },
+  "homepage": "https://github.com/JimmyStudio/nodejs#readme"
+}
